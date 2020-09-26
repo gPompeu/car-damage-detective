@@ -1,0 +1,10 @@
+matplotlib
+seaborn
+sklearn
+tensorflow
+
+notebook
+flask
+numpy
+h5py
+keras
